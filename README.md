@@ -5,7 +5,7 @@ GitHub Pages + Hexo 搭建的个人博客。
 - 仓库名：`motalk.github.io`
 - 站点地址：<https://motalk.github.io>
 - 博客名：墨说
-- 副标题：把生活的所见所闻所感都写出来
+- 副标题：把日子写成句子，把心事落成文字
 
 ## 本地开发
 

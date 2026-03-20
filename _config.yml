@@ -14,7 +14,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://motalk.github.io
+url: https://blog.motalk.ink
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
